@@ -1,5 +1,4 @@
 -- lua-server.lua
-require "luarocks.loader"
 local xavante = require "xavante"
 
 port = 8001
